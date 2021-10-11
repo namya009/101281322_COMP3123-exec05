@@ -1,0 +1,22 @@
+{
+  "name": "week05_lab_execrcise05",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev":"nodemon index.ja",
+    "test1":"nodemon index.ja",
+    "start:uat":"nodemon index.ja",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Namya Patel - Exercise Lab 05",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
